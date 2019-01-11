@@ -2,8 +2,8 @@
 int main()
 {
 	using namespace std;
-	int x=2,num;
-	while (x<=69)
+	int x=6,num;
+	while (x<=19)
 	{
 		cout<< "1/"<<x<<"\n";
 		num=num+x;
