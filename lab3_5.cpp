@@ -5,9 +5,9 @@ int main()
 	using namespace std;
 	int N,count=0;
 	string text1,text2;
-	cout<<"Enter the first text1: ";
+	cout<<"Enter the first text: ";
 	cin>>text1;
-	cout<<"Enter the first text2: ";
+	cout<<"Enter the second text: ";
 	cin>>text2;
 	cout<<"Enter N: ";
 	cin>>N;
